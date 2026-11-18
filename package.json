@@ -1,0 +1,20 @@
+{
+  "name": "youtube-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YouTube Scraper: Scrape public YouTube videos, channels, playlists, hashtags, and search results. Get titles, views, likes, durations, upload dates, descriptions, and channel details.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "youtube"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
